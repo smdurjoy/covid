@@ -1,0 +1,119 @@
+@media (max-width: 575.98px) {
+    .topName{font-size: 10px !important;}
+    .topContent .topTitle{font-size: 30px;}
+    .topContent .bdlink{font-size: 16px;}
+    .serviceMainTitle{font-size: 20px;}
+    .bdTopBannerOverlay .bdTitle{font-size: 18px;}
+    .center {
+        margin-top: 1rem;
+        margin-bottom: 2rem;
+    }
+    .bdInfo {
+        margin-top: 1rem;
+        margin-left: 0.5rem;
+        font-size: 20px;
+    }
+    .infoTitle{font-size: 18px; margin-top: -0.1rem;}
+    .coronaImg {
+        height: 130px;
+        width: 200px;
+        margin-top: 3rem;
+        margin-left: 1rem;
+    }
+    .coronaImg2 {
+        height: 130px;
+        width: 200px;
+        margin-top: 1rem;
+        margin-left: 1rem;
+        margin-bottom: -2rem;
+    }   
+    .smbdInfo {margin-top: -3rem;}  
+    .smTitle {margin-top: -3rem;}
+    .thik {font-size: 20px;}
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+    .topName{font-size: 15px !important;}
+    .topContent .topTitle{font-size: 38px; margin-top: 2rem;}
+    .topContent .bdlink{font-size: 18px;}
+    .serviceMainTitle{font-size: 22px;}
+    .bdTopBannerOverlay .bdTitle{font-size: 20px;}
+    .center {
+        margin-top: 1rem;
+        margin-bottom: 2rem;
+    }
+    .bdInfo {
+        margin-top: 16rem;
+        margin-left: -19rem;
+        font-size: 20px;
+    }
+    .table {
+        margin-top: 2rem;
+        margin-left: -20rem;
+    }
+    .homeTable {margin-left: -3.5rem;}
+    .infoTitle {font-size: 22px; margin-top: 3rem;}
+    .smTitle {margin-top: -2rem;}
+    .coronaImg {
+        height: 180px;
+        width: 300px;
+    }
+    .coronaImg2 {
+        height: 170px;
+        width: 300px;
+        margin-left: 18rem;
+        margin-top: -12.5rem;
+    }    
+    .thik {font-size: 22px;}
+    .mdbdInfo{margin-top: 1rem; margin-left: 0.5rem;}
+    .mdHotline{margin-top: 1rem; margin-left: 0rem;}
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) {   
+    .topName{font-size: 15px !important;}
+    .topContent .topTitle{font-size: 38px; margin-top: 2rem;}
+    .topContent .bdlink{font-size: 18px;}
+    .serviceMainTitle{font-size: 24px; margin-left: -5rem;}
+    .bdTopBannerOverlay .bdTitle{font-size: 20px;}
+    .center {
+        margin-top: 1rem;
+        margin-bottom: 2rem;
+    }
+    .bdInfo {
+        margin-top: 16rem;
+        margin-left: -19rem;
+        font-size: 20px;
+    }
+    .table {
+        margin-top: 2rem;
+        margin-left: -20rem;
+    }
+    .homeTable {margin-left: -2.5rem;}
+    .infoTitle {font-size: 22px; margin-top: 3rem;}
+    .smTitle {margin-top: -2rem;}
+    .coronaImg {
+        height: 180px;
+        width: 300px;
+        margin-top: 8rem;
+        margin-left: 4rem;
+    }
+    .coronaImg2 {
+        height: 170px;
+        width: 300px;
+        margin-left: 22rem;
+        margin-top: -12.5rem;
+    }    
+    .thik {font-size: 22px;}
+    .mdbdInfo{margin-top: 1rem; margin-left: 0.5rem;}
+    .mdHotline{margin-top: 1rem; margin-left: 0rem;}
+    .filter {margin-left: -2.4rem;}
+    .aboutTop {margin-left: 4rem;}
+}
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+}
+
+@media (min-width: 1200px) {
+
+}

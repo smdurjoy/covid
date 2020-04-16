@@ -1,0 +1,489 @@
+@import url('https://fonts.googleapis.com/css?family=Baloo+Paaji+2:400,500,600,700,800&display=swap');
+
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Baloo Paaji 2', cursive;
+}
+.topFixedBanner{
+    background-image: url("../image/covid2.jpeg");
+    min-height: 500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.topBannerOverlay{
+    position: absolute;
+    min-height: 500px;
+    width: 100%;
+    background: rgba(0, 0, 0, 0.7);
+}
+
+.topBannerOverlay .thin { font-weight: 300; }
+.topBannerOverlay .thick { font-weight: 900; }
+
+.topBannerOverlay .bdTitle {
+  font-size: 30px;
+  color: #067bf0;
+  position: relative;
+  display: block;
+  margin-top: 7rem;
+}
+.topBannerOverlay .topSubTitle .bdTitle:hover {
+    color: #5CAAEF;
+  }
+  
+.topBannerOverlay .topSubTitle .bdTitle:before {
+    content: '';
+    position: absolute;
+    bottom: 0; left: 0;
+    opacity: 0;
+}
+
+.topBannerOverlay .topSubTitle .bdTitle:hover:before {
+    opacity: 1.0;
+}
+
+.topBannerOverlay .topSubTitle .bdTitle, .topSubTitle .bdTitle:before {
+    -webkit-transition: all 0.2s ease;
+    transition: all 0.2s ease;
+}
+
+.topContent{
+    margin-top: 12rem;
+}
+
+.serviceMainTitle{
+    color: #0073E6;
+    margin-top: 5rem;
+    margin-bottom: 3rem;
+    font-family: 'Baloo Paaji 2', cursive;
+    font-size: 28px;
+    font-weight: 600;
+}
+
+.serviceName{
+    font-family: 'Baloo Paaji 2', cursive;
+    font-size: 22px;
+    font-weight: 600;
+    margin-top: 1rem;
+}
+
+.serviceDetails{
+    margin-top: 1rem;
+    font-family: 'Baloo Paaji 2', cursive;
+    font-size: 14px;
+    font-weight: 400;
+    color: #2B2B2B;
+}
+
+.serviceCard{
+    margin: 5px 5px 5px 5px;
+    padding: 60px 30px 60px 30px;
+    height: 22rem;
+    box-shadow: 0 0 4px 0 rgba(0, 115, 230, 0.2);
+    text-align: center;
+}
+
+.serviceCard:hover{
+    box-shadow: 0 0 8px 0 rgba(0, 115, 230, 0.2);
+}
+
+.navTitle{
+    text-decoration: none;
+    font-family: 'Baloo Paaji 2', cursive;
+    font-size: 24px;
+    font-weight: 700;
+    color: #ffffff !important;
+}
+
+.navTitle:hover{
+    text-decoration: none;
+}
+
+.navTitleScroll{
+    text-decoration: none;
+    font-family: 'Baloo Paaji 2', cursive;
+    font-size: 24px;
+    font-weight: 700;
+    color: #0073E6 !important;
+}
+
+.navTitleScroll:hover{
+    text-decoration: none;
+}
+
+.navBackground{
+    background-color: rgba(00, 00, 00, 0.1) !important;
+    transition: background-color 400ms linear;
+    -o-transition: background-color 400ms linear;
+    -moz-transition: background-color 400ms linear;
+    -webkit-transition: background-color 400ms linear;
+}
+.navBackgroundScroll{
+    background-color: #ffffff !important;
+    transition: background-color 400ms linear;
+    -o-transition: background-color 400ms linear;
+    -moz-transition: background-color 400ms linear;
+    -webkit-transition: background-color 400ms linear;
+    box-shadow: 0 0 6px 0 rgba(0, 115, 230, 0.3);
+}
+
+.navItem{
+    font-size: 16px;
+    text-decoration: none !important;
+    font-family: 'Baloo Paaji 2', cursive;
+    font-weight: 400;
+    color: #ffffff !important;
+}
+
+.navItem:hover {
+    color: #5CAAEF !important;
+}
+  
+.navItem:before {
+    content: '';
+    position: absolute;
+    bottom: 0; left: 0;
+    width: 100%;
+    opacity: 0;
+}
+
+.navItem:hover:before {
+    opacity: 1.0;
+}
+
+.navItem, .navItem:before {
+    -webkit-transition: all 0.2s ease;
+    transition: all 0.2s ease;
+}
+  
+.navItemScroll{
+    font-size: 16px;
+    text-decoration: none !important;
+    font-family: 'Baloo Paaji 2', cursive;
+    font-weight: 400;
+    color: #2B2B2B !important;
+}
+
+.navItemScroll:hover {
+    color: #5CAAEF !important;
+}
+  
+.navItem:before {
+    content: '';
+    position: absolute;
+    bottom: 0; left: 0;
+    width: 100%;
+    opacity: 0;
+}
+
+.navItemScroll:hover:before {
+    opacity: 1.0;
+}
+
+.navItemScroll, .navItemScroll:before {
+    -webkit-transition: all 0.2s ease;
+    transition: all 0.2s ease;
+}
+
+.responsive-navbar-nav:focus {
+  outline: none !important;
+}
+
+.filter {
+  font-family: 'Inconsolata', Consolas, monospace;
+}
+
+.filter:focus {
+    outline:0px !important;
+    -webkit-appearance:none;
+    box-shadow: none !important;
+}
+
+.tHead {
+    background-color: #2B2B2B;
+    color: #fff;
+}
+
+.topContent .topTitle {
+	position: relative;
+	text-align: center;
+  color: #0073E6;
+  margin-top: 1rem;
+	font-family: 'Inconsolata', Consolas, monospace;
+	font-size: 4em;
+}
+.topContent .topTitle span{
+	position: absolute;
+	top: 0;
+	right: 0;
+	background: #1d1f20;
+	width: 100%;
+	border-left: .1em solid transparent;
+	-webkit-animation: typing 3s steps(16) forwards,
+										 cursor 1s infinite;
+	animation: typing 3s steps(16) forwards,
+						 cursor 1s infinite;
+}
+/* Animation */
+@-webkit-keyframes typing{
+	from { width: 100%;}
+	to { width: 0;}
+}
+@-webkit-keyframes cursor{
+	50% { border-color: white;}
+}
+@keyframes typing{
+	from{ width: 100%;}
+	to{ width: 0;}
+}
+@keyframes cursor{
+	50% { border-color: white;}
+}
+
+.topContent .thin { font-weight: 300; }
+.topContent .thick { font-weight: 900; }
+
+.topContent .bdlink {
+  font-size: 20px;
+  color: rgb(40, 130, 219);
+  position: relative;
+  display: block;
+}
+.topSubTitle .bdlink:hover {
+    color: #5CAAEF;
+  }
+  
+.topSubTitle .bdlink:before {
+    content: '';
+    position: absolute;
+    bottom: 0; left: 0;
+    opacity: 0;
+}
+
+.topSubTitle .bdlink:hover:before {
+    opacity: 1.0;
+}
+
+.topSubTitle .bdlink, .topSubTitle .bdlink:before {
+    -webkit-transition: all 0.2s ease;
+    transition: all 0.2s ease;
+}
+  
+/* flag css */
+
+/** KEYFRAME **/
+@-webkit-keyframes wave-flag-front {
+  from {
+    width: 180px;
+  }
+  to {
+    width: 230px;
+  }
+}
+@keyframes wave-flag-front {
+  from {
+    width: 180px;
+  }
+  to {
+    width: 230px;
+  }
+}
+@-webkit-keyframes wave-flag-back {
+  from {
+    left: 490px;
+    width: 80px;
+  }
+  to {
+    left: 540px;
+    width: 50px;
+  }
+}
+@keyframes wave-flag-back {
+  from {
+    left: 490px;
+    width: 80px;
+  }
+  to {
+    left: 540px;
+    width: 50px;
+  }
+}
+/** BASIC **/
+.center {
+ /* margin:50px; */
+ width:auto;
+ height:auto;
+ margin-left: -18rem;
+ margin-top: 1rem;
+}
+
+/** FLAG **/
+.flag-container {
+  height: 230px;
+  position: relative;
+}
+
+.pole {
+  top:49px;
+  background: #1a1b1d;
+  display: block;
+  height: 120px;
+  position: relative;
+  left:326px;
+  /*
+  -webkit-transform: skew(20deg, 0deg);
+      -ms-transform: skew(20deg, 0deg);
+          transform: skew(20deg, 0deg);
+          */
+  width: 5px;
+}
+
+.knob {
+  background: #1a1b1d;
+  border-radius: 50%;
+  display: block;
+  height: 11px;
+  left: 323px;
+  position: absolute;
+  top: 38px;
+  width: 11px;
+}
+
+.flag {
+  background: #006e21;
+  display: block;
+  position: absolute;
+}
+
+.flag.front {
+  left: 0;
+  height: 40px;
+  overflow: hidden;
+  top: 51px;
+  width: 390px;
+  z-index: 10;
+  left:326px;
+  -webkit-animation: wave-flag-front 0.7s ease-in-out infinite alternate;
+          animation: wave-flag-front 0.7s ease-in-out infinite alternate;
+}
+
+.rating {position:relative; top:8px; left:10px; color:#fff !important; font-size:20px;font-family: 'Inconsolata', Consolas, monospace;}
+.flag span {position:relative; top:8px; left:10px; color:rgb(48, 41, 41); font-size:14px; font-family: 'Inconsolata', Consolas, monospace; font-weight: 900;} 
+
+.flag.back {
+  background: #e4101e;
+  left: 340px;
+  height: 38px;
+  top: 71px;
+  width: 100px;
+  z-index: 5;
+  -webkit-animation: wave-flag-back 0.7s ease-in-out infinite alternate;
+          animation: wave-flag-back 0.7s ease-in-out infinite alternate;
+}
+.flag.back .shadow {
+  border-color: #d11625 transparent transparent transparent;
+  border-style: solid;
+  border-width: 18px 10px 0 0;
+  bottom: 0;
+  height: 0;
+  position: absolute;
+  width: 0;
+  z-index: 15;
+}
+
+.bdInfo {
+  color: #0073E6;
+  margin-top: 3rem;
+  margin-left: 0.5rem;
+  font-family: 'Baloo Paaji 2', cursive;
+  font-size: 28px;
+  font-weight: 600;
+}
+
+.bdTopFixedBanner{
+  background-image: url("../image/bd.jpg");
+  min-height: 500px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.bdTopBannerOverlay{
+  position: absolute;
+  min-height: 500px;
+  width: 100%;
+  background: rgba(0, 0, 0, 0.7);
+}
+
+.bdTopBannerOverlay .thin { font-weight: 300; }
+.bdTopBannerOverlay .thick { font-weight: 900; }
+
+.bdTopBannerOverlay .bdTitle {
+  font-size: 30px;
+  color: #067bf0;
+  position: relative;
+  display: block;
+  margin-top: 9rem;
+}
+.bdTopBannerOverlay .topSubTitle .bdTitle:hover {
+    color: #5CAAEF;
+  }
+  
+.bdTopBannerOverlay .topSubTitle .bdTitle:before {
+    content: '';
+    position: absolute;
+    bottom: 0; left: 0;
+    opacity: 0;
+}
+
+.bdTopBannerOverlay .topSubTitle .bdTitle:hover:before {
+    opacity: 1.0;
+}
+
+.bdTopBannerOverlay .topSubTitle .bdTitle, .topSubTitle .bdTitle:before {
+    -webkit-transition: all 0.2s ease;
+    transition: all 0.2s ease;
+}
+  
+.copyRightSection{
+  margin-top: 2rem;
+  background-color: #0073E6;
+  padding: 20px 20px 20px 20px;
+  box-shadow: 0 0 4px 0 rgba(0, 115, 230, 0.2);
+}
+
+.copyRightSection p{
+  color: #fff;
+  font-family: 'Inconsolata', Consolas, monospace;
+}
+
+.table {
+  font-family: 'Inconsolata', Consolas, monospace;
+}
+
+.informations {
+  margin-top: 4rem;
+  font-family: 'Inconsolata', Consolas, monospace;
+}
+
+.coronaImg {
+  max-height: 170px;
+  max-width: 266px;
+  margin-top: 7.5rem;
+}
+
+.coronaImg2 {
+  max-height: 190px;
+  max-width: 266px;
+  margin-top: 1rem;
+}
+
+.peraGape {
+  margin-top: 4rem;
+}
