@@ -34,6 +34,7 @@
     .bdtitle{font-size: 18px;}
     .allInfoTable{margin-left: -10px;}
     .disInfoTable{margin-left: -5px !important;}
+    .mdLgTable{display: none;}
 }
 
 @media (min-width: 576px) and (max-width: 767.98px) {
@@ -73,6 +74,7 @@
     .mdHotline{margin-top: 1rem; margin-left: 0rem;}
     .navToggler{margin-left: 30rem;}
     .bdtitle{font-size: 20px;}
+    .smTable{display: none;}
 }
 
 @media (min-width: 768px) and (max-width: 991.98px) {   
@@ -116,12 +118,13 @@
     .aboutTop {margin-left: 4rem;}
     .navToggler{margin-left: 42rem;}
     .bdtitle{font-size: 20px;}
+    .smTable{display: none;}
 }
 
 @media (min-width: 992px) and (max-width: 1199.98px) {
-
+    .smTable{display: none;}
 }
 
 @media (min-width: 1200px) {
-
+    .smTable{display: none;}
 }
