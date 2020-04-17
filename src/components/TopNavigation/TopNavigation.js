@@ -37,17 +37,18 @@ class TopNavigation extends Component {
                 <title>{this.state.pageTitle}</title>
                 <Navbar variant={this.state.navVarient} className={this.state.navBarBack} fixed="top" collapseOnSelect expand="lg">
                     <Navbar.Brand> <NavLink className={this.state.navBarTitle} to="/"><img src={this.state.navBarLogo} alt="navLogo" className="topName"/> Coronavirus</NavLink></Navbar.Brand>
-                    <Navbar.Toggle aria-controls="responsive-navbar-nav" />
+                    <Navbar.Toggle aria-controls="responsive-navbar-nav" className="navToggler"/>
                     <Navbar.Collapse id="responsive-navbar-nav">
                         <Nav className="mr-auto">
                         </Nav>
                         <Nav>
                             <Nav.Link><NavLink exact activeStyle={{color:'#00A8EE'}} className={this.state.navBarItem} to="/">Home</NavLink></Nav.Link>
+                            <Nav.Link><NavLink exact activeStyle={{color:'#00A8EE'}} className={this.state.navBarItem} to="BdAllInfo">BdDetails</NavLink></Nav.Link>
                             <Nav.Link><NavLink exact activeStyle={{color:'#00A8EE'}} className={this.state.navBarItem} to="AboutCorona">AboutCorona</NavLink></Nav.Link>
                             <Nav.Link><NavLink exact activeStyle={{color:'#00A8EE'}} className={this.state.navBarItem} to="ImpContacts" >ImpContacts</NavLink></Nav.Link>
                         </Nav>
                     </Navbar.Collapse>
-                    </Navbar>
+                </Navbar>
             </Fragment>
         );
     }

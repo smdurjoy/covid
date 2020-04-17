@@ -30,6 +30,10 @@
     .smbdInfo {margin-top: -3rem;}  
     .smTitle {margin-top: -3rem;}
     .thik {font-size: 20px;}
+    .navToggler{margin-left: 18rem;}
+    .bdtitle{font-size: 18px;}
+    .allInfoTable{margin-left: -10px;}
+    .disInfoTable{margin-left: -5px !important;}
 }
 
 @media (min-width: 576px) and (max-width: 767.98px) {
@@ -47,7 +51,7 @@
         margin-left: -19rem;
         font-size: 20px;
     }
-    .table {
+    .homeTable {
         margin-top: 2rem;
         margin-left: -20rem;
     }
@@ -67,6 +71,8 @@
     .thik {font-size: 22px;}
     .mdbdInfo{margin-top: 1rem; margin-left: 0.5rem;}
     .mdHotline{margin-top: 1rem; margin-left: 0rem;}
+    .navToggler{margin-left: 30rem;}
+    .bdtitle{font-size: 20px;}
 }
 
 @media (min-width: 768px) and (max-width: 991.98px) {   
@@ -84,7 +90,7 @@
         margin-left: -19rem;
         font-size: 20px;
     }
-    .table {
+    .homeTable {
         margin-top: 2rem;
         margin-left: -20rem;
     }
@@ -108,6 +114,8 @@
     .mdHotline{margin-top: 1rem; margin-left: 0rem;}
     .filter {margin-left: -2.4rem;}
     .aboutTop {margin-left: 4rem;}
+    .navToggler{margin-left: 42rem;}
+    .bdtitle{font-size: 20px;}
 }
 
 @media (min-width: 992px) and (max-width: 1199.98px) {

@@ -245,31 +245,31 @@ body {
 	50% { border-color: white;}
 }
 
-.topContent .thin { font-weight: 300; }
-.topContent .thick { font-weight: 900; }
+.thin { font-weight: 300; }
+.thick { font-weight: 900; }
 
-.topContent .bdlink {
+.bdlink {
   font-size: 20px;
   color: rgb(40, 130, 219);
   position: relative;
   display: block;
 }
-.topSubTitle .bdlink:hover {
+.bdlink:hover {
     color: #5CAAEF;
   }
   
-.topSubTitle .bdlink:before {
+.bdlink:before {
     content: '';
     position: absolute;
     bottom: 0; left: 0;
     opacity: 0;
 }
 
-.topSubTitle .bdlink:hover:before {
+.bdlink:hover:before {
     opacity: 1.0;
 }
 
-.topSubTitle .bdlink, .topSubTitle .bdlink:before {
+.bdlink, .bdlink:before {
     -webkit-transition: all 0.2s ease;
     transition: all 0.2s ease;
 }
@@ -486,4 +486,27 @@ body {
 
 .peraGape {
   margin-top: 4rem;
+}
+
+.navbar-toggler {
+  position: fixed;
+  margin-left: 17rem;
+}
+
+.bdtitle {
+  font-size: 25px;
+  color: #067bf0;
+  margin-top: 4rem;
+  font-family: 'Baloo Paaji 2', cursive;
+  font-weight: 600;
+}
+
+.tableRow {
+  background-color: rgb(34, 20, 46);
+  color: #fff;
+}
+
+.thead {
+  background-color: rgb(10, 18, 48);
+  color: #fff;
 }

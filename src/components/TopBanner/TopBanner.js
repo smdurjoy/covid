@@ -7,7 +7,7 @@ class TopBanner extends Component {
             <Fragment>
                 <Container fluid={true} className="topFixedBanner p-0" >
                     <div className="topBannerOverlay">
-                       <Container className="topContent">
+                       <Container className="topContent"> 
                            <Row>
                                <Col className="text-center">
                                     <h1 className="topTitle">Be Safe and Stay Home!!!<span>&nbsp;</span></h1>

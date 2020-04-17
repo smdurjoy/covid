@@ -1,7 +1,8 @@
 import React, { Component, Fragment } from 'react'
-import { Container, Row, Col } from 'react-bootstrap'
+import { Container, Row, Col, Button } from 'react-bootstrap'
 import RestClint from '../../RestAPI/RestClient';
 import AppUrl from '../../RestAPI/AppUrl';
+import {Link} from "react-router-dom";
 
 export class BdDetails extends Component {
     constructor() {
@@ -79,6 +80,21 @@ export class BdDetails extends Component {
                                 <td>{this.state.bd.critical}</td>
                             </tr>
                         </table>    
+
+                        <table className="table table-borderd text-center">
+                            <tr>
+                                <th scope="col" rowSpan="2">Yesterday:</th>
+                                <th scope="col">TotalCases</th>
+                                <th scope="col">TotalDeaths</th>
+                            </tr>  
+                            <tr>
+                                <td scope="col">341</td>
+                                <td scope="col">10</td>
+                            </tr>
+                            <tr>
+                            <Link  className="bdlink" to="/BdAllInfo"><span class="thin">More</span><span class="thick"> Info</span></Link>
+                            </tr>
+                        </table>
                         </Col>
                     </Row>
                     <hr/>
