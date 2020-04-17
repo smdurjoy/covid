@@ -11,7 +11,7 @@ export default class BdAllInfo extends Component {
                             <p className="text-center bdtitle">Showing day by day Cases and Deaths</p>
                         </Col>
                         <Col lg={6} md={6} sm={6}>
-                            <table className="table table-sm table-striped text-center mt-4 allInfoTable">
+                            <table className="table table-sm table-striped text-center mt-4">
                                 <thead>
                                     <tr className="thead">
                                         <th>Date</th>
@@ -383,7 +383,7 @@ export default class BdAllInfo extends Component {
                         </Col> 
                        
                         <Col lg={6} md={6} sm={6}>
-                            <table className="table table-sm table-striped text-center mt-4 allInfoTable">
+                            <table className="table table-sm table-striped text-center mt-4">
                             <thead>
                                 <tr className="thead">
                                     <th>Date</th>
