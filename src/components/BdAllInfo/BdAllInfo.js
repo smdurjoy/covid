@@ -8,7 +8,7 @@ export default class BdAllInfo extends Component {
                 <Container>
                     <p className="text-center bdtitle">Showing day by day Cases and Deaths</p>
                     <Row>
-                        <Col lg={6} md={6} sm={6} xs={6}>
+                        <Col lg={6} md={6} sm={6}>
                             <table className="table table-sm table-striped text-center mt-4 allInfoTable">
                             <thead>
                                 <tr className="thead">
@@ -102,7 +102,7 @@ export default class BdAllInfo extends Component {
                             </tbody>      
                             </table>
                         </Col>
-                        <Col lg={6} md={6} sm={6} xs={6}>
+                        <Col lg={6} md={6} sm={6}>
                             <table className="table table-sm table-striped text-center mt-4 mr-3 disInfoTable">
                             <thead>   
                                 <tr className="thead">
