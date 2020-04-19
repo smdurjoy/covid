@@ -20,7 +20,12 @@ export default class BdAllInfo extends Component {
                                     </tr>
                                 </thead> 
 
-                                <tbody>  
+                                <tbody> 
+                                    <tr>
+                                        <td>April 19</td>
+                                        <td>312</td>
+                                        <td>7</td>
+                                    </tr> 
                                     <tr>
                                         <td>April 18</td>
                                         <td>306</td>
@@ -496,7 +501,17 @@ export default class BdAllInfo extends Component {
                                 </tr>
                             </thead>  
 
-                            <tbody>   
+                            <tbody>
+                                <tr>
+                                   <td>April 19</td>
+                                   <td>312</td>
+                                   <td>7</td>
+                                </tr> 
+                                <tr>
+                                    <td>April 18</td>
+                                    <td>306</td>
+                                    <td>9</td>
+                                </tr> 
                                 <tr>
                                     <td>April 15</td>
                                     <td>219</td>
