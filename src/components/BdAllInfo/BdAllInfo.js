@@ -209,7 +209,7 @@ export default class BdAllInfo extends Component {
                                 <tbody>
                                     <tr>
                                         <td>Dhaka</td>
-                                        <td>636</td>
+                                        <td>843</td>
                                     </tr>
                                     <tr>
                                         <td>Gazipur</td>
@@ -269,7 +269,7 @@ export default class BdAllInfo extends Component {
                                     </tr>
                                     <tr>
                                         <td>Rajshahi</td>
-                                        <td>4</td>
+                                        <td>8</td>
                                     </tr>
                                     <tr>
                                         <td>Barisal</td>
@@ -595,7 +595,7 @@ export default class BdAllInfo extends Component {
                                 <tbody>
                                     <tr>
                                         <td>Dhaka</td>
-                                        <td>636</td>
+                                        <td>843</td>
                                     </tr>
                                     <tr>
                                         <td>Gazipur</td>
@@ -635,7 +635,7 @@ export default class BdAllInfo extends Component {
                                     </tr>
                                     <tr>
                                         <td>Rajshahi</td>
-                                        <td>4</td>
+                                        <td>8</td>
                                     </tr>
                                     <tr>
                                         <td>Chittagong</td>
