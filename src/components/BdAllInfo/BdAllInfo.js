@@ -22,6 +22,11 @@ export default class BdAllInfo extends Component {
 
                                 <tbody> 
                                     <tr>
+                                        <td>April 22</td>
+                                        <td>390</td>
+                                        <td>10</td>
+                                    </tr>
+                                    <tr>
                                         <td>April 21</td>
                                         <td>434</td>
                                         <td>9</td>
@@ -413,6 +418,16 @@ export default class BdAllInfo extends Component {
                             </thead> 
 
                             <tbody>   
+                                 <tr>
+                                    <td>April 22</td>
+                                    <td>390</td>
+                                    <td>10</td>
+                                 </tr>
+                                 <tr>
+                                    <td>April 21</td>
+                                    <td>434</td>
+                                    <td>9</td>
+                                </tr>
                                 <tr>
                                     <td>April 17</td>
                                     <td>266</td>
@@ -512,6 +527,11 @@ export default class BdAllInfo extends Component {
                             </thead>  
 
                             <tbody>
+                                <tr>
+                                   <td>April 23</td>
+                                   <td>414</td>
+                                   <td>7</td>
+                                </tr>
                                 <tr>
                                    <td>April 19</td>
                                    <td>312</td>
