@@ -416,6 +416,54 @@ export default class BdAllInfo extends Component {
                                         <td>Thakurgaon</td>
                                         <td>8</td>
                                     </tr>
+                                    <tr>
+                                        <td>Pabna</td>
+                                        <td>3</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Natore</td>
+                                        <td>1</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Chapainawabganj</td>
+                                        <td>1</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Naogaon</td>
+                                        <td>1</td>
+                                    </tr>
+                                     <tr>
+                                        <td>Sirajganj</td>
+                                        <td>1</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Bogra</td>
+                                        <td>10</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Joypurhat</td>
+                                        <td>4</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Bagerhat</td>
+                                        <td>1</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Magura</td>
+                                        <td>2</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Jessore</td>
+                                        <td>7</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Panchagarh</td>
+                                        <td>3</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Bandarban</td>
+                                        <td>4</td>
+                                    </tr>
                                 </tbody>
                             </Table>
                         </Col>
@@ -764,6 +812,30 @@ export default class BdAllInfo extends Component {
                                         <td>Jhalakathi</td>
                                         <td>5</td>
                                     </tr>
+                                    <tr>
+                                        <td>Pabna</td>
+                                        <td>3</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Natore</td>
+                                        <td>1</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Chapainawabganj</td>
+                                        <td>1</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Naogaon</td>
+                                        <td>1</td>
+                                    </tr>
+                                     <tr>
+                                        <td>Sirajganj</td>
+                                        <td>1</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Bogra</td>
+                                        <td>10</td>
+                                    </tr>
                                 </tbody>
                             </Table>
                         </Col>
@@ -862,11 +934,36 @@ export default class BdAllInfo extends Component {
                                         <td>Thakurgaon</td>
                                         <td>8</td>
                                     </tr>
+                                    <tr>
+                                        <td>Joypurhat</td>
+                                        <td>4</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Bagerhat</td>
+                                        <td>1</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Magura</td>
+                                        <td>2</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Jessore</td>
+                                        <td>7</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Panchagarh</td>
+                                        <td>3</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Bandarban</td>
+                                        <td>4</td>
+                                    </tr>
                                 </tbody>
                             </Table>
                         </Col>
                     </Row>
                     <p>Source:<a href="https://corona.gov.bd/" target="_blank"> corona.gov.bd</a></p>
+                    <p>Last update: 26-04-2020</p>
                 </Container>
             </Fragment>
         )
