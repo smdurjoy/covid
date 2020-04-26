@@ -253,64 +253,64 @@ export default class BdAllInfo extends Component {
                                 
                                 <tbody>
                                     <tr>
-                                        <td>Dhaka</td>
-                                        <td>1470</td>
+                                        <td>Dhaka City</td>
+                                        <td>260</td>
                                     </tr>
                                     <tr>
                                         <td>Gazipur</td>
-                                        <td>269</td>
+                                        <td>294</td>
                                     </tr>
                                     <tr>
                                         <td>Narayangonj</td>
-                                        <td>508</td>
+                                        <td>566</td>
                                     </tr>
                                     <tr>
                                         <td>Narsingdi</td>
-                                        <td>136</td>
+                                        <td>141</td>
                                     </tr>
                                     <tr>
                                         <td>Kishoreganj</td>
-                                        <td>146</td>
+                                        <td>180</td>
                                     </tr>
                                     <tr>
                                         <td>Chittagong</td>
-                                        <td>42</td>
+                                        <td>45</td>
                                     </tr>
                                     <tr>
                                         <td>Madaripur</td>
-                                        <td>27</td>
+                                        <td>28</td>
                                     </tr>
                                     <tr>
                                         <td>Rangpur</td>
-                                        <td>9</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Cumilla</td>
-                                        <td>27</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Gopalgonj</td>
-                                        <td>35</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Gaibandha</td>
-                                        <td>13</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Mymensingh</td>
-                                        <td>63</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Tangail</td>
                                         <td>15</td>
                                     </tr>
                                     <tr>
+                                        <td>Cumilla</td>
+                                        <td>32</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Gopalgonj</td>
+                                        <td>43</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Gaibandha</td>
+                                        <td>14</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Mymensingh</td>
+                                        <td>68</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Tangail</td>
+                                        <td>21</td>
+                                    </tr>
+                                    <tr>
                                         <td>Jamalpur</td>
-                                        <td>29</td>
+                                        <td>30</td>
                                     </tr>
                                     <tr>
                                         <td>Hobigonj</td>
-                                        <td>13</td>
+                                        <td>21</td>
                                     </tr>
                                     <tr>
                                         <td>Rajshahi</td>
@@ -318,11 +318,11 @@ export default class BdAllInfo extends Component {
                                     </tr>
                                     <tr>
                                         <td>Barisal</td>
-                                        <td>34</td>
+                                        <td>35</td>
                                     </tr>
                                     <tr>
                                         <td>Rajbari</td>
-                                        <td>9</td>
+                                        <td>11</td>
                                     </tr>
                                     <tr>
                                         <td>Pirojpur</td>
@@ -334,15 +334,15 @@ export default class BdAllInfo extends Component {
                                     </tr>
                                     <tr>
                                         <td>Borguna</td>
-                                        <td>17</td>
+                                        <td>23</td>
                                     </tr>
                                     <tr>
                                         <td>Lakshmipur</td>
-                                        <td>25</td>
+                                        <td>27</td>
                                     </tr>
                                     <tr>
                                         <td>MouloviBazar</td>
-                                        <td>2</td>
+                                        <td>4</td>
                                     </tr>
                                     <tr>
                                         <td>Sherpur</td>
@@ -350,11 +350,11 @@ export default class BdAllInfo extends Component {
                                     </tr>
                                     <tr>
                                         <td>Sylhet</td>
-                                        <td>4</td>
+                                        <td>11</td>
                                     </tr>
                                     <tr>
                                         <td>Kurigram</td>
-                                        <td>3</td>
+                                        <td>5</td>
                                     </tr>
                                     <tr>
                                         <td>Dinajpur</td>
@@ -362,15 +362,15 @@ export default class BdAllInfo extends Component {
                                     </tr>
                                     <tr>
                                         <td>ManikGonj</td>
-                                        <td>9</td>
+                                        <td>12</td>
                                     </tr>
                                     <tr>
                                         <td>Brahmanbaria</td>
-                                        <td>24</td>
+                                        <td>25</td>
                                     </tr>
                                     <tr>
                                         <td>Foridpur</td>
-                                        <td>6</td>
+                                        <td>8</td>
                                     </tr>
                                     <tr>
                                         <td>Chandpur</td>
@@ -382,15 +382,15 @@ export default class BdAllInfo extends Component {
                                     </tr>
                                     <tr>
                                         <td>Chuadanga</td>
-                                        <td>2</td>
+                                        <td>8</td>
                                     </tr>
                                     <tr>
                                         <td>Khulna</td>
-                                        <td>4</td>
+                                        <td>7</td>
                                     </tr>
                                     <tr>
                                         <td>Potuakhali</td>
-                                        <td>10</td>
+                                        <td>16</td>
                                     </tr>
                                     <tr>
                                         <td>Noakhali</td>
@@ -398,7 +398,7 @@ export default class BdAllInfo extends Component {
                                     </tr>
                                     <tr>
                                         <td>Shunamgonj</td>
-                                        <td>1</td>
+                                        <td>13</td>
                                     </tr>
                                     <tr>
                                         <td>Lalmonirhat</td>
@@ -410,7 +410,7 @@ export default class BdAllInfo extends Component {
                                     </tr>
                                     <tr>
                                         <td>Cox's Bazar</td>
-                                        <td>5</td>
+                                        <td>6</td>
                                     </tr>
                                     <tr>
                                         <td>Thakurgaon</td>
@@ -684,65 +684,65 @@ export default class BdAllInfo extends Component {
                                 </thead>
                                 
                                 <tbody>
-                                   <tr>
-                                        <td>Dhaka</td>
-                                        <td>1470</td>
+                                    <tr>
+                                        <td>Dhaka City</td>
+                                        <td>260</td>
                                     </tr>
                                     <tr>
                                         <td>Gazipur</td>
-                                        <td>269</td>
+                                        <td>294</td>
                                     </tr>
                                     <tr>
                                         <td>Narayangonj</td>
-                                        <td>508</td>
+                                        <td>566</td>
                                     </tr>
                                     <tr>
                                         <td>Narsingdi</td>
-                                        <td>136</td>
+                                        <td>141</td>
                                     </tr>
                                     <tr>
                                         <td>Kishoreganj</td>
-                                        <td>146</td>
+                                        <td>180</td>
                                     </tr>
                                     <tr>
                                         <td>Chittagong</td>
-                                        <td>42</td>
+                                        <td>45</td>
                                     </tr>
                                     <tr>
                                         <td>Madaripur</td>
-                                        <td>27</td>
+                                        <td>28</td>
                                     </tr>
                                     <tr>
                                         <td>Rangpur</td>
-                                        <td>9</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Cumilla</td>
-                                        <td>27</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Gopalgonj</td>
-                                        <td>35</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Gaibandha</td>
-                                        <td>13</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Mymensingh</td>
-                                        <td>63</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Tangail</td>
                                         <td>15</td>
                                     </tr>
                                     <tr>
+                                        <td>Cumilla</td>
+                                        <td>32</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Gopalgonj</td>
+                                        <td>43</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Gaibandha</td>
+                                        <td>14</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Mymensingh</td>
+                                        <td>68</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Tangail</td>
+                                        <td>21</td>
+                                    </tr>
+                                    <tr>
                                         <td>Jamalpur</td>
-                                        <td>29</td>
+                                        <td>30</td>
                                     </tr>
                                     <tr>
                                         <td>Hobigonj</td>
-                                        <td>13</td>
+                                        <td>21</td>
                                     </tr>
                                     <tr>
                                         <td>Rajshahi</td>
@@ -750,11 +750,11 @@ export default class BdAllInfo extends Component {
                                     </tr>
                                     <tr>
                                         <td>Barisal</td>
-                                        <td>34</td>
+                                        <td>35</td>
                                     </tr>
                                     <tr>
                                         <td>Rajbari</td>
-                                        <td>9</td>
+                                        <td>11</td>
                                     </tr>
                                     <tr>
                                         <td>Pirojpur</td>
@@ -778,17 +778,17 @@ export default class BdAllInfo extends Component {
                                 </thead>
                                 
                                 <tbody>
-                                    <tr>
+                                   <tr>
                                         <td>Borguna</td>
-                                        <td>17</td>
+                                        <td>23</td>
                                     </tr>
                                     <tr>
                                         <td>Lakshmipur</td>
-                                        <td>25</td>
+                                        <td>27</td>
                                     </tr>
                                     <tr>
                                         <td>MouloviBazar</td>
-                                        <td>2</td>
+                                        <td>4</td>
                                     </tr>
                                     <tr>
                                         <td>Sherpur</td>
@@ -796,11 +796,11 @@ export default class BdAllInfo extends Component {
                                     </tr>
                                     <tr>
                                         <td>Sylhet</td>
-                                        <td>4</td>
+                                        <td>11</td>
                                     </tr>
                                     <tr>
                                         <td>Kurigram</td>
-                                        <td>3</td>
+                                        <td>5</td>
                                     </tr>
                                     <tr>
                                         <td>Dinajpur</td>
@@ -808,15 +808,15 @@ export default class BdAllInfo extends Component {
                                     </tr>
                                     <tr>
                                         <td>ManikGonj</td>
-                                        <td>9</td>
+                                        <td>12</td>
                                     </tr>
                                     <tr>
                                         <td>Brahmanbaria</td>
-                                        <td>24</td>
+                                        <td>25</td>
                                     </tr>
                                     <tr>
                                         <td>Foridpur</td>
-                                        <td>6</td>
+                                        <td>8</td>
                                     </tr>
                                     <tr>
                                         <td>Chandpur</td>
@@ -828,15 +828,15 @@ export default class BdAllInfo extends Component {
                                     </tr>
                                     <tr>
                                         <td>Chuadanga</td>
-                                        <td>2</td>
+                                        <td>8</td>
                                     </tr>
                                     <tr>
                                         <td>Khulna</td>
-                                        <td>4</td>
+                                        <td>7</td>
                                     </tr>
                                     <tr>
                                         <td>Potuakhali</td>
-                                        <td>10</td>
+                                        <td>16</td>
                                     </tr>
                                     <tr>
                                         <td>Noakhali</td>
@@ -844,7 +844,7 @@ export default class BdAllInfo extends Component {
                                     </tr>
                                     <tr>
                                         <td>Shunamgonj</td>
-                                        <td>1</td>
+                                        <td>13</td>
                                     </tr>
                                     <tr>
                                         <td>Lalmonirhat</td>
@@ -856,7 +856,7 @@ export default class BdAllInfo extends Component {
                                     </tr>
                                     <tr>
                                         <td>Cox's Bazar</td>
-                                        <td>5</td>
+                                        <td>6</td>
                                     </tr>
                                     <tr>
                                         <td>Thakurgaon</td>
