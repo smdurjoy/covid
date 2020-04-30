@@ -22,6 +22,16 @@ export default class BdAllInfo extends Component {
 
                                 <tbody> 
                                     <tr>
+                                        <td>April 29</td>
+                                        <td>641</td>
+                                        <td>8</td>
+                                    </tr>
+                                    <tr>
+                                        <td>April 28</td>
+                                        <td>549</td>
+                                        <td>3</td>
+                                    </tr>
+                                    <tr>
                                         <td>April 27</td>
                                         <td>497</td>
                                         <td>7</td>
@@ -242,238 +252,7 @@ export default class BdAllInfo extends Component {
                             </table>
                         </Col>
                     </Row>
-
-                    <Row className="smTable text-center">
-                        <Col>
-                            <p className="bdtitle">District-wise Infection</p>
-                        </Col>  
-                        <Col md={6} lg={6} sm={6}>
-                            <Table striped bordered hover size="sm" className="text-center mt-3">
-                                <thead className="tableRow">
-                                    <tr>
-                                        <th>Distric</th>
-                                        <th>Infected</th>
-                                    </tr>
-                                </thead>
-                                
-                                <tbody>
-                                    <tr>
-                                        <td>Dhaka City</td>
-                                        <td>260</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Gazipur</td>
-                                        <td>294</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Narayangonj</td>
-                                        <td>566</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Narsingdi</td>
-                                        <td>141</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Kishoreganj</td>
-                                        <td>180</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Chittagong</td>
-                                        <td>45</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Madaripur</td>
-                                        <td>28</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Rangpur</td>
-                                        <td>15</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Cumilla</td>
-                                        <td>32</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Gopalgonj</td>
-                                        <td>43</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Gaibandha</td>
-                                        <td>14</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Mymensingh</td>
-                                        <td>68</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Tangail</td>
-                                        <td>21</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Jamalpur</td>
-                                        <td>30</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Hobigonj</td>
-                                        <td>21</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Rajshahi</td>
-                                        <td>9</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Barisal</td>
-                                        <td>35</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Rajbari</td>
-                                        <td>11</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Pirojpur</td>
-                                        <td>5</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Jhalakathi</td>
-                                        <td>5</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Borguna</td>
-                                        <td>23</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Lakshmipur</td>
-                                        <td>27</td>
-                                    </tr>
-                                    <tr>
-                                        <td>MouloviBazar</td>
-                                        <td>4</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Sherpur</td>
-                                        <td>19</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Sylhet</td>
-                                        <td>11</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Kurigram</td>
-                                        <td>5</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Dinajpur</td>
-                                        <td>13</td>
-                                    </tr>
-                                    <tr>
-                                        <td>ManikGonj</td>
-                                        <td>12</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Brahmanbaria</td>
-                                        <td>25</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Foridpur</td>
-                                        <td>8</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Chandpur</td>
-                                        <td>10</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Norail</td>
-                                        <td>7</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Chuadanga</td>
-                                        <td>8</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Khulna</td>
-                                        <td>7</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Potuakhali</td>
-                                        <td>16</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Noakhali</td>
-                                        <td>4</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Shunamgonj</td>
-                                        <td>13</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Lalmonirhat</td>
-                                        <td>2</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Nilphamari</td>
-                                        <td>10</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Cox's Bazar</td>
-                                        <td>6</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Thakurgaon</td>
-                                        <td>8</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Pabna</td>
-                                        <td>3</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Natore</td>
-                                        <td>1</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Chapainawabganj</td>
-                                        <td>1</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Naogaon</td>
-                                        <td>1</td>
-                                    </tr>
-                                     <tr>
-                                        <td>Sirajganj</td>
-                                        <td>1</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Bogra</td>
-                                        <td>10</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Joypurhat</td>
-                                        <td>4</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Bagerhat</td>
-                                        <td>1</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Magura</td>
-                                        <td>2</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Jessore</td>
-                                        <td>7</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Panchagarh</td>
-                                        <td>3</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Bandarban</td>
-                                        <td>4</td>
-                                    </tr>
-                                </tbody>
-                            </Table>
-                        </Col>
-                    </Row>    
-
+            
                     {/* medium device table start */}
                     <Row className="mdLgTable text-center">
                         <Col lg={12} md={12} sm={12} xs={12}>
@@ -491,6 +270,11 @@ export default class BdAllInfo extends Component {
                             </thead> 
 
                             <tbody> 
+                                 <tr>
+                                    <td>April 28</td>
+                                    <td>549</td>
+                                    <td>3</td>
+                                 </tr>
                                  <tr>
                                     <td>April 26</td>
                                     <td>418</td>
@@ -611,6 +395,11 @@ export default class BdAllInfo extends Component {
 
                             <tbody>
                                 <tr>
+                                    <td>April 29</td>
+                                    <td>641</td>
+                                    <td>8</td>
+                                </tr>
+                                <tr>
                                    <td>April 27</td>
                                    <td>497</td>
                                    <td>7</td>
@@ -725,255 +514,6 @@ export default class BdAllInfo extends Component {
                           </table>                    
                         </Col>
                     </Row>
-
-                    {/* medium and large device table */}
-                    <Row className="mdLgTable text-center">
-                        <Col lg={12} md={12} sm={12} xs={12}>
-                            <p className="bdtitle">District-wise Infection</p>
-                        </Col>
-                        
-                        <Col md={6} lg={6} sm={6}>
-                            <Table striped bordered hover size="sm" className="text-center mt-3">
-                                <thead className="tableRow">
-                                    <tr>
-                                        <th>Distric</th>
-                                        <th>Infected</th>
-                                    </tr>
-                                </thead>
-                                
-                                <tbody>
-                                    <tr>
-                                        <td>Dhaka City</td>
-                                        <td>260</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Gazipur</td>
-                                        <td>294</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Narayangonj</td>
-                                        <td>566</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Narsingdi</td>
-                                        <td>141</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Kishoreganj</td>
-                                        <td>180</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Chittagong</td>
-                                        <td>45</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Madaripur</td>
-                                        <td>28</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Rangpur</td>
-                                        <td>15</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Cumilla</td>
-                                        <td>32</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Gopalgonj</td>
-                                        <td>43</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Gaibandha</td>
-                                        <td>14</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Mymensingh</td>
-                                        <td>68</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Tangail</td>
-                                        <td>21</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Jamalpur</td>
-                                        <td>30</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Hobigonj</td>
-                                        <td>21</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Rajshahi</td>
-                                        <td>9</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Barisal</td>
-                                        <td>35</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Rajbari</td>
-                                        <td>11</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Pirojpur</td>
-                                        <td>5</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Jhalakathi</td>
-                                        <td>5</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Pabna</td>
-                                        <td>3</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Natore</td>
-                                        <td>1</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Chapainawabganj</td>
-                                        <td>1</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Naogaon</td>
-                                        <td>1</td>
-                                    </tr>
-                                     <tr>
-                                        <td>Sirajganj</td>
-                                        <td>1</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Bogra</td>
-                                        <td>10</td>
-                                    </tr>
-                                </tbody>
-                            </Table>
-                        </Col>
-
-                        <Col md={6} lg={6} sm={6}>
-                            <Table striped bordered hover size="sm" className="text-center mt-3">
-                                <thead className="tableRow">
-                                    <tr>
-                                        <th>Distric</th>
-                                        <th>Infected</th>
-                                    </tr>
-                                </thead>
-                                
-                                <tbody>
-                                   <tr>
-                                        <td>Borguna</td>
-                                        <td>23</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Lakshmipur</td>
-                                        <td>27</td>
-                                    </tr>
-                                    <tr>
-                                        <td>MouloviBazar</td>
-                                        <td>4</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Sherpur</td>
-                                        <td>19</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Sylhet</td>
-                                        <td>11</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Kurigram</td>
-                                        <td>5</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Dinajpur</td>
-                                        <td>13</td>
-                                    </tr>
-                                    <tr>
-                                        <td>ManikGonj</td>
-                                        <td>12</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Brahmanbaria</td>
-                                        <td>25</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Foridpur</td>
-                                        <td>8</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Chandpur</td>
-                                        <td>10</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Norail</td>
-                                        <td>7</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Chuadanga</td>
-                                        <td>8</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Khulna</td>
-                                        <td>7</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Potuakhali</td>
-                                        <td>16</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Noakhali</td>
-                                        <td>4</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Shunamgonj</td>
-                                        <td>13</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Lalmonirhat</td>
-                                        <td>2</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Nilphamari</td>
-                                        <td>10</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Cox's Bazar</td>
-                                        <td>6</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Thakurgaon</td>
-                                        <td>8</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Joypurhat</td>
-                                        <td>4</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Bagerhat</td>
-                                        <td>1</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Magura</td>
-                                        <td>2</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Jessore</td>
-                                        <td>7</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Panchagarh</td>
-                                        <td>3</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Bandarban</td>
-                                        <td>4</td>
-                                    </tr>
-                                </tbody>
-                            </Table>
-                        </Col>
-                    </Row>
-                    <p>Source:<a href="https://corona.gov.bd/" target="_blank"> corona.gov.bd</a></p>
-                    <p>Last update: 26-04-2020</p>
                 </Container>
             </Fragment>
         )
