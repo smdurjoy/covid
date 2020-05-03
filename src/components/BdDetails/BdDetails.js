@@ -88,7 +88,7 @@ export class BdDetails extends Component {
                                 <th scope="col">TotalDeaths</th>
                             </tr>  
                             <tr>
-                                <td scope="col">571</td>
+                                <td scope="col">665</td>
                                 <td scope="col">2</td>
                             </tr>
                             <tr>
