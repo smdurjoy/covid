@@ -510,3 +510,14 @@ body {
   background-color: rgb(10, 18, 48);
   color: #fff;
 }
+
+.footerCredit {
+  color: #fff;
+  text-decoration: none;
+  font-size: 14px;
+}
+
+.footerCredit:hover {
+  color: #ddd;
+  text-decoration: none;
+}
