@@ -22,6 +22,16 @@ export default class BdAllInfo extends Component {
 
                                 <tbody> 
                                     <tr>
+                                        <td>May 8</td>
+                                        <td>706</td>
+                                        <td>13</td>
+                                    </tr>
+                                    <tr>
+                                        <td>May 7</td>
+                                        <td>688</td>
+                                        <td>5</td>
+                                    </tr>
+                                    <tr>
                                         <td>May 6</td>
                                         <td>790</td>
                                         <td>3</td>
@@ -305,7 +315,12 @@ export default class BdAllInfo extends Component {
                             </thead> 
                                    
                             <tbody> 
-                                 <tr>
+                                <tr>
+                                   <td>May 8</td>
+                                   <td>706</td>
+                                   <td>13</td>
+                                </tr>               
+                                <tr>
                                    <td>May 6</td>
                                    <td>790</td>
                                    <td>3</td>
@@ -448,7 +463,12 @@ export default class BdAllInfo extends Component {
                                 </tr>
                             </thead>  
 
-                            <tbody>                   
+                            <tbody>  
+                                <tr>
+                                    <td>May 7</td>
+                                    <td>688</td>
+                                    <td>5</td>
+                                </tr>
                                 <tr>
                                    <td>May 5</td>
                                    <td>786</td>
