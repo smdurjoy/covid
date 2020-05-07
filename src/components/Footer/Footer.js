@@ -6,7 +6,7 @@ export class Footer extends Component {
         return (
             <Fragment>
                <Container fluid={true} className="text-center copyRightSection">
-                    <p>© <a href="https://smdurjoy.netlify.app" target="_blank">smdurJoy</a></p>
+                    <p>© <a href="https://smdurjoy.netlify.app" target="_blank" className="footerCredit">smdurJoy</a></p>
                 </Container> 
             </Fragment>
         )
