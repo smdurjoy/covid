@@ -23,14 +23,14 @@ export default class BdAllInfo extends Component {
                                 <tbody> 
                                     <tr>
                                         <td>May 8</td>
-                                        <td>706</td>
-                                        <td>13</td>
+                                        <td>709</td>
+                                        <td>7</td>
                                     </tr>
                                     <tr>
                                         <td>May 7</td>
-                                        <td>688</td>
-                                        <td>5</td>
-                                    </tr>
+                                        <td>706</td>
+                                        <td>13</td>
+                                    </tr>                              
                                     <tr>
                                         <td>May 6</td>
                                         <td>790</td>
