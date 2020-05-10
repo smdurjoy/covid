@@ -88,8 +88,8 @@ export class BdDetails extends Component {
                                 <th scope="col">TotalDeaths</th>
                             </tr>  
                             <tr>
-                                <td scope="col">636</td>
-                                <td scope="col">8</td>
+                                <td scope="col">887</td>
+                                <td scope="col">14</td>
                             </tr>
                             <tr>
                             <Link  className="bdlink" to="/BdAllInfo"><span class="thin">More</span><span class="thick"> Info</span></Link>
