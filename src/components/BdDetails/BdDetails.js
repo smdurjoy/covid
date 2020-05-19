@@ -80,21 +80,7 @@ export class BdDetails extends Component {
                                 <td>{this.state.bd.critical}</td>
                             </tr>
                         </table>    
-
-                        <table className="table table-borderd text-center">
-                            <tr>
-                                <th scope="col" rowSpan="2">Yesterday:</th>
-                                <th scope="col">TotalCases</th>
-                                <th scope="col">TotalDeaths</th>
-                            </tr>  
-                            <tr>
-                                <td scope="col">1202</td>
-                                <td scope="col">15</td>
-                            </tr>
-                            <tr>
-                            <Link  className="bdlink" to="/BdAllInfo"><span class="thin">More</span><span class="thick"> Info</span></Link>
-                            </tr>
-                        </table>
+                        <Link  className="bdlink" to="/BdAllInfo"><span class="thin">More</span><span class="thick"> Info</span></Link>  
                         </Col>
                     </Row>
                     <hr/>
