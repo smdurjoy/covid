@@ -79,10 +79,10 @@ export class BdDetails extends Component {
                                 <td>{this.state.bd.recovered}</td>
                                 <td>{this.state.bd.critical}</td>
                             </tr>
-                        </table>    
-                        <Link  className="bdlink" to="/BdAllInfo"><span class="thin">More</span><span class="thick"> Info</span></Link>  
+                        </table>      
                         </Col>
                     </Row>
+                    <Link  className="bdlink" to="/BdAllInfo"><span class="thin">More</span><span class="thick"> Info</span></Link>
                     <hr/>
                     <Row>
                         <Col className="informations mb-5">
