@@ -22,6 +22,36 @@ export default class BdAllInfo extends Component {
 
                                 <tbody>
                                     <tr>
+                                        <td>May 27</td>
+                                        <td>1541</td>
+                                        <td>22</td>
+                                    </tr>
+                                    <tr>
+                                        <td>May 26</td>
+                                        <td>1166</td>
+                                        <td>21</td>
+                                    </tr>
+                                    <tr>
+                                        <td>May 25</td>
+                                        <td>1975</td>
+                                        <td>21</td>
+                                    </tr>
+                                    <tr>
+                                        <td>May 24</td>
+                                        <td>1532</td>
+                                        <td>28</td>
+                                    </tr>
+                                    <tr>
+                                        <td>May 23</td>
+                                        <td>1873</td>
+                                        <td>20</td>
+                                    </tr>
+                                    <tr>
+                                        <td>May 22</td>
+                                        <td>1694</td>
+                                        <td>24</td>
+                                    </tr>
+                                    <tr>
                                         <td>May 21</td>
                                         <td>1773</td>
                                         <td>22</td>
@@ -379,7 +409,22 @@ export default class BdAllInfo extends Component {
                                 </tr>
                             </thead> 
                                    
-                            <tbody> 
+                            <tbody>
+                                <tr>
+                                    <td>May 26</td>
+                                    <td>1166</td>
+                                    <td>21</td>
+                                </tr>
+                                <tr>
+                                    <td>May 24</td>
+                                    <td>1532</td>
+                                    <td>28</td>
+                                </tr>
+                                <tr>
+                                    <td>May 22</td>
+                                    <td>1694</td>
+                                    <td>24</td>
+                                </tr>
                                 <tr>
                                     <td>May 20</td>
                                     <td>1617</td>
@@ -558,7 +603,22 @@ export default class BdAllInfo extends Component {
                                 </tr>
                             </thead>  
 
-                            <tbody>  
+                            <tbody>
+                                <tr>
+                                    <td>May 27</td>
+                                    <td>1541</td>
+                                    <td>22</td>
+                                </tr>
+                                <tr>
+                                    <td>May 25</td>
+                                    <td>1975</td>
+                                    <td>21</td>
+                                </tr>
+                                <tr>
+                                    <td>May 23</td>
+                                    <td>1873</td>
+                                    <td>20</td>
+                                </tr>
                                 <tr>
                                     <td>May 21</td>
                                     <td>1773</td>
