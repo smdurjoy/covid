@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4befdb1c-c841-4a79-9629-77b318bcec5c" name="Default Changelist" comment="" />
+    <list default="true" id="4befdb1c-c841-4a79-9629-77b318bcec5c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/BdAllInfo/BdAllInfo.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/BdAllInfo/BdAllInfo.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,7 +53,8 @@
       <workItem from="1579198931077" duration="2412000" />
       <workItem from="1579969330746" duration="10653000" />
       <workItem from="1590589849412" duration="72000" />
-      <workItem from="1590590079057" duration="1047000" />
+      <workItem from="1590590079057" duration="1327000" />
+      <workItem from="1591029852816" duration="293000" />
     </task>
     <servers />
   </component>
@@ -58,25 +62,9 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1259" height="163" key="GridCell.Tab.0.bottom" timestamp="1578578119320">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state x="463" y="154" key="FileChooserDialogImpl" timestamp="1590591426162">
+      <screen x="60" y="27" width="1306" height="741" />
     </state>
-    <state width="1259" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1578578119320" />
-    <state width="1259" height="163" key="GridCell.Tab.0.center" timestamp="1578578119319">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state width="1259" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1578578119319" />
-    <state width="1259" height="163" key="GridCell.Tab.0.left" timestamp="1578578119319">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state width="1259" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1578578119319" />
-    <state width="1259" height="163" key="GridCell.Tab.0.right" timestamp="1578578119319">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state width="1259" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1578578119319" />
-    <state x="142" y="0" key="SettingsEditor" timestamp="1579969800778">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1579969800778" />
+    <state x="463" y="154" key="FileChooserDialogImpl/60.27.1306.741@60.27.1306.741" timestamp="1590591426162" />
   </component>
 </project>
