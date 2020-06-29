@@ -22,6 +22,81 @@ export default class BdAllInfo extends Component {
 
                                 <tbody>
                                     <tr>
+                                        <td>June 29</td>
+                                        <td>4014</td>
+                                        <td>45</td>
+                                    </tr>
+                                    <tr>
+                                        <td>June 28</td>
+                                        <td>3809</td>
+                                        <td>43</td>
+                                    </tr>
+                                    <tr>
+                                        <td>June 27</td>
+                                        <td>3504</td>
+                                        <td>34</td>
+                                    </tr>
+                                    <tr>
+                                        <td>June 26</td>
+                                        <td>3868</td>
+                                        <td>40</td>
+                                    </tr>
+                                    <tr>
+                                        <td>June 25</td>
+                                        <td>3946</td>
+                                        <td>39</td>
+                                    </tr>
+                                    <tr>
+                                        <td>June 24</td>
+                                        <td>3462</td>
+                                        <td>37</td>
+                                    </tr>
+                                    <tr>
+                                        <td>June 23</td>
+                                        <td>3412</td>
+                                        <td>43</td>
+                                    </tr>
+                                    <tr>
+                                        <td>June 22</td>
+                                        <td>3480</td>
+                                        <td>38</td>
+                                    </tr>
+                                    <tr>
+                                        <td>June 21</td>
+                                        <td>3531</td>
+                                        <td>39</td>
+                                    </tr>
+                                    <tr>
+                                        <td>June 20</td>
+                                        <td>3240</td>
+                                        <td>37</td>
+                                    </tr>
+                                    <tr>
+                                        <td>June 19</td>
+                                        <td>3243</td>
+                                        <td>45</td>
+                                    </tr>
+                                    <tr>
+                                        <td>June 18</td>
+                                        <td>3803</td>
+                                        <td>38</td>
+                                    </tr>
+                                    <tr>
+                                        <td>June 17</td>
+                                        <td>4008</td>
+                                        <td>43</td>
+                                    </tr>
+                                    <tr>
+                                        <td>June 16</td>
+                                        <td>3862</td>
+                                        <td>53</td>
+                                    </tr>
+                                    <tr>
+                                        <td>June 15</td>
+                                        <td>3099</td>
+                                        <td>38</td>
+                                    </tr>
+                                    <tr>
                                         <td>June 14</td>
                                         <td>3141</td>
                                         <td>32</td>
@@ -501,6 +576,41 @@ export default class BdAllInfo extends Component {
 
                             <tbody>
                                 <tr>
+                                    <td>June 28</td>
+                                    <td>3809</td>
+                                    <td>43</td>
+                                </tr>
+                                <tr>
+                                    <td>June 26</td>
+                                    <td>3868</td>
+                                    <td>40</td>
+                                </tr>
+                                <tr>
+                                    <td>June 24</td>
+                                    <td>3462</td>
+                                    <td>37</td>
+                                </tr>
+                                <tr>
+                                    <td>June 22</td>
+                                    <td>3480</td>
+                                    <td>38</td>
+                                </tr>
+                                <tr>
+                                    <td>June 20</td>
+                                    <td>3240</td>
+                                    <td>37</td>
+                                </tr>
+                                <tr>
+                                    <td>June 18</td>
+                                    <td>3803</td>
+                                    <td>38</td>
+                                </tr>
+                                <tr>
+                                    <td>June 16</td>
+                                    <td>3862</td>
+                                    <td>53</td>
+                                </tr>
+                                <tr>
                                     <td>June 14</td>
                                     <td>3141</td>
                                     <td>32</td>
@@ -746,6 +856,46 @@ export default class BdAllInfo extends Component {
                                 </thead>
 
                                 <tbody>
+                                    <tr>
+                                        <td>June 29</td>
+                                        <td>4014</td>
+                                        <td>45</td>
+                                    </tr>
+                                    <tr>
+                                        <td>June 27</td>
+                                        <td>3504</td>
+                                        <td>34</td>
+                                    </tr>
+                                    <tr>
+                                        <td>June 25</td>
+                                        <td>3946</td>
+                                        <td>39</td>
+                                    </tr>
+                                    <tr>
+                                        <td>June 23</td>
+                                        <td>3412</td>
+                                        <td>43</td>
+                                    </tr>
+                                    <tr>
+                                        <td>June 21</td>
+                                        <td>3531</td>
+                                        <td>39</td>
+                                    </tr>
+                                    <tr>
+                                        <td>June 19</td>
+                                        <td>3243</td>
+                                        <td>45</td>
+                                    </tr>
+                                    <tr>
+                                        <td>June 17</td>
+                                        <td>4008</td>
+                                        <td>43</td>
+                                    </tr>
+                                    <tr>
+                                        <td>June 15</td>
+                                        <td>3099</td>
+                                        <td>38</td>
+                                    </tr>
                                     <tr>
                                         <td>June 13</td>
                                         <td>2856</td>
