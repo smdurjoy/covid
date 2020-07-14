@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4befdb1c-c841-4a79-9629-77b318bcec5c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/BdAllInfo/BdAllInfo.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/BdAllInfo/BdAllInfo.js" afterDir="false" />
-    </list>
+    <list default="true" id="4befdb1c-c841-4a79-9629-77b318bcec5c" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,7 +30,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../eLearning" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -67,6 +64,7 @@
       <workItem from="1592212180713" duration="11000" />
       <workItem from="1593439986378" duration="58000" />
       <workItem from="1593440108111" duration="1051000" />
+      <workItem from="1593510712212" duration="13000" />
     </task>
     <servers />
   </component>
@@ -74,10 +72,10 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="463" y="154" key="FileChooserDialogImpl" timestamp="1592212189883">
+    <state x="463" y="154" key="FileChooserDialogImpl" timestamp="1593510726311">
       <screen x="60" y="27" width="1306" height="741" />
     </state>
-    <state x="463" y="154" key="FileChooserDialogImpl/60.27.1306.741@60.27.1306.741" timestamp="1592212189883" />
+    <state x="463" y="154" key="FileChooserDialogImpl/60.27.1306.741@60.27.1306.741" timestamp="1593510726311" />
     <state x="371" y="84" width="681" height="683" key="search.everywhere.popup" timestamp="1593440176200">
       <screen x="60" y="27" width="1306" height="741" />
     </state>
